@@ -1,0 +1,14 @@
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\bin\Debug\Discord Webhook Spammer.exe.config
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\bin\Debug\Discord Webhook Spammer.exe
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\bin\Debug\Discord Webhook Spammer.pdb
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.csprojAssemblyReference.cache
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.exe
+C:\Users\guill\Desktop\Discord-Webhook-Spammer-master\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.pdb
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\bin\Debug\Discord Webhook Spammer.exe.config
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\bin\Debug\Discord Webhook Spammer.exe
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\bin\Debug\Discord Webhook Spammer.pdb
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.csprojAssemblyReference.cache
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.exe
+C:\Users\Guille\source\repos\Discord-Webhook-Spammer\Discord Webhook Spammer\obj\Debug\Discord Webhook Spammer.pdb
